@@ -9,7 +9,7 @@ headers = { "Accept": "application/yang-data+json",
             "Content-type":"application/yang-data+json"
            }
 
-basicauth = ("Admin", "Admin123")
+basicauth = ("Admin", "Admin123!")
 
 new_loopback = {
     "ietf-interfaces:interface": {
