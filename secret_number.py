@@ -18,3 +18,4 @@ while number != secret_number:
     number = int (input("Guess number again: "))
 
 print ("Well done, muggle! You are free now. End of game")
+print("You won!")
