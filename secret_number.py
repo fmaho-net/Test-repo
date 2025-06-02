@@ -17,4 +17,4 @@ while number != secret_number:
     print ("Ha ha! You're stuck in my loop!")
     number = int (input("Guess number again: "))
 
-print ("Well done, muggle! You are free now.")
+print ("Well done, muggle! You are free now. End of game")
