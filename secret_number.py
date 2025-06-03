@@ -22,3 +22,4 @@ print ("Well done, muggle! You are free now.")
 print("END!")
 
 print("Wanna start a new game?")
+print("Last print")
